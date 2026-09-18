@@ -1,39 +1,39 @@
-  # Hi, I'm Mahmut Berat 👋
+ # Hey, I'm Mahmut Berat 👋
 
-  Senior / Lead Software Engineer with 10+ years of experience
-  building backend platforms, distributed systems, and
-  cloud-native applications.
+  I'm a Senior / Lead Software Engineer who's spent the last 10+ years
+  building backend platforms, distributed systems, and cloud-native apps.
 
-  I've led engineering teams, shaped architecture, and delivered
-  software for enterprise and customer-facing products.
-  I care about reliable systems, thoughtful engineering decisions,
-  and helping developers grow.
+  Over the years, I've led teams, worked through tricky architecture
+  decisions, and helped bring enterprise and customer-facing products
+  to life. I enjoy figuring out how things should fit together,
+  building software people can rely on, and helping other developers grow.
 
-  Alongside my professional work, I build independent products
-  and explore agentic AI-assisted development workflows.
+  I also like building things of my own. Taking an idea from
+  “what if?” to something people can actually use is one of my
+  favorite parts of being an engineer. These days, I'm also exploring
+  how AI agents can help along the way.
 
-  ## ⚽ Featured product: Octogolazo
+  ## ⚽ What I'm building: Octogolazo
 
-  [Octogolazo](https://octogolazo.com/) is a sports prediction
-  platform I designed, built, and launched—from concept to production.
+  [Octogolazo](https://octogolazo.com/) is a sports prediction platform
+  I took from an idea to a live product.
 
-  Football fans can make predictions, compete with friends,
-  and turn their picks into shareable posters.
+  It's a place for football fans to make predictions, compete
+  with friends, and turn their picks into posters they can share.
+  Give it a try and let me know what you think!
 
-  - **Engineering:** React, Supabase, PostgreSQL
-  - **Product analytics:** PostHog
-  - **Development approach:** Agentic AI-assisted workflows
+  Built with **React, Supabase, and PostgreSQL**, with **PostHog**
+  for product analytics and AI agents as part of my development workflow.
 
-  [Explore Octogolazo →](https://octogolazo.com/)
+  [Check out Octogolazo →](https://octogolazo.com/)
 
-  ## What I focus on
+  ## 💬 Things I enjoy working on
 
-  - Backend architecture and distributed systems
-  - Reliable, scalable, cloud-native applications
-  - Technical leadership and mentoring
-  - Building and shipping independent products
-  - AI-assisted software development
-
+  - Making complex backend systems easier to understand and maintain
+  - Building reliable distributed systems and cloud-native apps
+  - Sharing what I've learned and learning from other developers
+  - Turning side-project ideas into products people can use
+  - Finding useful ways to bring AI into everyday engineering
 <!--
 **mahmutBerat/mahmutBerat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
